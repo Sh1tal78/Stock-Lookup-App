@@ -1,0 +1,10 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.StockLookupApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>          <!-- Primary color -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>  <!-- Status bar color -->
+        <item name="colorAccent">@color/colorAccent</item>            <!-- Accent color -->
+    </style>
+
+    <style name="Theme.StockLookupApp" parent="Base.Theme.StockLookupApp" />
+</resources>
